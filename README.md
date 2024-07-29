@@ -7,7 +7,7 @@
 
 ### Dependencies
 
-* El proyecto esta corriendo con framework python Django y Django rest framework. Utiliza una base de datos sqlite, la cual viene adjunta al codigo para facilitar el levantamiento y testeo.
+* El proyecto esta corriendo con framework python Django y Django rest framework. Utiliza una base de datos sqlite, la cual viene adjunta al codigo para facilitar el levantamiento y evitar ejecucion de migraciones.
 
 ### Installing
 
