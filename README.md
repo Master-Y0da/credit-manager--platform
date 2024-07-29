@@ -29,7 +29,7 @@ python3 manage.py create_api_key
 ## Swagger
 
 * Se implemento un api doc Swagger, bajo la ruta /swagger...para realizar request autenticadas, se debe presionar el boton de login, e ingresar el Api-Key generado
-de la forma "Api-Key <token>". Una vez realizado se pueden probar los endpoint desde la misma interfaz Swagger.
+de la forma "Api-Key [token]". Una vez realizado se pueden probar los endpoint desde la misma interfaz Swagger.
 
 
 ## Authors
